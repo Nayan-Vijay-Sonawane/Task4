@@ -1,0 +1,62 @@
+body{
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+  
+h1{
+    text-align: center;
+    font-size: 90px;
+    font-family: algerian, monospace;
+} 
+  
+h3{
+    text-align: center;
+    font-size: 22px;
+}
+h4{
+    text-align: center;
+    font-size: 45px;
+    font-family:Bodoni MT black;
+    word-spacing: 8px;
+}
+.responsive{
+    max-width: 100%;
+    height: 500px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+}
+p{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    font-family: brodway;
+} 
+ul {
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px; 
+    background-color:black;
+    color:white;
+} 
+div{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+}
+
+div h2{
+    word-spacing: 6.5px;
+    font-family: Britanic Bold;
+}
+  
+div img{
+    align-items: center;
+    justify-content: center;
+}
